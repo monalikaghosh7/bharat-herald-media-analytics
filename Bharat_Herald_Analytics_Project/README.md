@@ -84,11 +84,22 @@ This project analyzes **operational and financial data (2019–2024)** using SQL
 ---
 
 ### 🖼️ Visual Samples
-You can include EDA charts and Python outputs here for better presentation.
 
-![Circulation Trend](Python_EDA/EDA_Charts/yoy_circulation_trend.png)  
-![Ad Revenue Trends](Python_EDA/EDA_Charts/ad_revenue_by_category.png)  
-![Print Waste Analysis](Python_EDA/EDA_Charts/print_waste_analysis.png)
+**1️⃣ Year-over-Year Circulation Trend (2019–2024)**
+![Circulation Trend](Python_EDA/EDA_Charts/yoy_circulation_trend.png)
+
+**2️⃣ Ad Revenue Trends by Category**
+![Ad Revenue Trends](Python_EDA/EDA_Charts/ad_revenue_trend.png)
+
+**3️⃣ Print Waste Analysis (2019–2024)**
+![Print Waste](Python_EDA/EDA_Charts/print_waste_analysis.png)
+
+**4️⃣ Readiness vs Engagement Scatter**
+![Readiness vs Engagement](Python_EDA/EDA_Charts/readiness_vs_engagement.png)
+
+**5️⃣ Top 5 Cities by ROI Overlay**
+![Top 5 ROI Overlay](Python_EDA/EDA_Charts/top5_roi_overlay.png)
+
 
 ---
 

@@ -54,8 +54,7 @@ This project analyzes **operational and financial data (2019–2024)** using SQL
 
 ---
 
-### 🧩 Deliverables
-- 📄 `Bharat_Herald_Final_Business_Report.docx` — full executive report  
+### 🧩 Deliverables 
 - 📓 `EDA_Analysis.ipynb` — Python notebook  
 - 🗂️ `SQL_Queries.sql` — SQL analysis scripts  
 - 📊 `Bharat_Herald_Presentation.pptx` — stakeholder presentation deck  
